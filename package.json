@@ -28,7 +28,7 @@
     "passport-twitter": "latest",
     "q": "^1.1.2",
     "serve-favicon": "~2.2.0",
-    "socket.io": "^1.2.1",
+    "socket.io": "^3.0.0",
     "socketio-jwt": "^2.3.5"
   },
   "devDependencies": {
